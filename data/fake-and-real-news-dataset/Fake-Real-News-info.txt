@@ -1,0 +1,13 @@
+Fake and Real News Dataset
+
+Clément Bisaillon
+
+Downloaded from Kaggle: 04-30-2020
+
+https://www.kaggle.com/clmentbisaillon/fake-and-real-news-dataset/data
+
+Files:
+/fake-and-real-news-dataset/Fake.csv
+/	"	/True.csv
+
+According to Bisaillon, “the people who made the data set took posts from https://www.politifact.com this is a website where people classifies posts and explain why they considered fake or real.”

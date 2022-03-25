@@ -1,0 +1,13 @@
+Fake News Dataset
+
+Meg Risdal
+
+Downloaded from Kaggle: 05-12-2020
+
+https://www.kaggle.com/mrisdal/fake-news
+
+File:
+
+/fake-news-dataset-2/fake.csv
+
+According to Risdal, this dataset “contains text and metadata scraped from 244 websites tagged as "bullshit" by the BS Detector Chrome Extension (https://github.com/selfagency/bs-detector) by Daniel Sieradski (https://github.com/selfagency)."
